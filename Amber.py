@@ -63,7 +63,7 @@ logo = """•◈•-----------------------------•◈•
 \033[1;96mAuthor  \033[1;93m: \033[1;92mAmber
 \033[1;96mInstagram \033[1;93m: \033[1;innoxent Amber
 \033[1;96mFacebook  \033[1;93m: \033[1; Innoxent Amber
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Aliha/Moto
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Amber/Hacker
 \033[1;91m======================================="""
 
 def tik():
