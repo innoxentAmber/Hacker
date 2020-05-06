@@ -85,9 +85,9 @@ os.system("clear")
 
 print "\033[1;96m♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇"
 print  """\033[1;91m♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤\033[1;96mAuthor  \033[1;93m: \033[1;92mAmber
-\033[1;96mInstagram \033[1;93m: \033[1;92mInnoxent Amber
-\033[1;96mFacebook  \033[1;93m: \033[1;92m innoxent Amber
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Aliha/Moto
+\033[1;96mInstagram \033[1;93m: \033[1;92m Innoxent Amber
+\033[1;96mFacebook  \033[1;93m: \033[1;92m Innoxent Amber
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Amber/Moto
 \033[1;91m♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤☆♤"""
 print " \x1b[1;93m♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇ ♡◇"
 
